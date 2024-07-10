@@ -1,7 +1,7 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://hamzashabbir.io)
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate full Stack developer</h3>
-<img align="rght" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+<img align="rght" alt="Coding" width="300" src = "https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-dev-tech&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-dev-tech" /> </p>
 
