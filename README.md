@@ -1,19 +1,19 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://hamzashabbir.io)
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 <img align="rght" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-dev-tech&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-dev-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-dev-tech" alt="hamza-dev-tech" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hamza_dev_tech" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_dev_tech?logo=twitter&style=for-the-badge" alt="hamza_dev_tech" /></a> </p>
 
-- 🔭 I’m currently working on **ML Model**
+- 🔭 I’m currently working on [ML Model](hb)
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on [Full Stack Projects](hhj)
+
+- 🤝 I’m looking for help with [dash](hbhj)
 
 - 👨‍💻 All of my projects are available at [https://hamza-1.vercel.app/](https://hamza-1.vercel.app/)
 
@@ -29,14 +29,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 <a href="https://twitter.com/hamza_dev_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza_dev_tech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://kaggle.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 <a href="https://fb.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 <a href="https://instagram.com/hamza_dev_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_dev_tech" height="30" width="40" /></a>
 <a href="https://dribbble.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://www.behance.net/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 <a href="https://hashnode.com/hamzadevtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hamzadevtech" height="30" width="40" /></a>
+<a href="https://medium.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cruxguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cruxguru" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hamza-dev-tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/hamza-dev-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="hamza-dev-tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
