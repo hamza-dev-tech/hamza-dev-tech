@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))](https://hamzashabbir.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://hamzashabbir.io)
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src = "https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
