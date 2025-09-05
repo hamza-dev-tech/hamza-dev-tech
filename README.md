@@ -210,7 +210,11 @@
 ### 📅 Contribution Calendar
 <div align="center">
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/hamza-dev-tech/hamza-dev-tech/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/hamza-dev-tech/hamza-dev-tech/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+[![GitHub Contribution Calendar](https://ghchart.rshah.org/hamza-dev-tech)](https://github.com/hamza-dev-tech)
 
 </div>
 
