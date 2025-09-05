@@ -20,7 +20,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamza-dev-tech&label=👀%20Profile%20Views&color=FF6B6B&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hamza_dev_tech?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white)](https://twitter.com/hamza_dev_tech)
-![Years Badge](https://badges.pufler.dev/years/hamza-dev-tech?style=for-the-badge&color=blue&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/hamza-dev-tech?style=for-the-badge&color=yellow&logo=github)
 
 </div>
 
@@ -204,6 +204,13 @@
 <div align="center">
 
 [![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamza-dev-tech&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=F8D866&color=F8D866&area=true&area_color=F85D7F)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+### 📅 Contribution Calendar
+<div align="center">
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/hamza-dev-tech/hamza-dev-tech/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
