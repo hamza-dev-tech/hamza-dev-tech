@@ -207,17 +207,6 @@
 
 </div>
 
-### 📅 Contribution Calendar
-<div align="center">
-
-![](https://raw.githubusercontent.com/hamza-dev-tech/hamza-dev-tech/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-[![GitHub Contribution Calendar](https://ghchart.rshah.org/hamza-dev-tech)](https://github.com/hamza-dev-tech)
-
-</div>
-
 ---
 
 ## 🎉 Fun Facts & Quotes
