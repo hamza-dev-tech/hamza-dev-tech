@@ -1,5 +1,5 @@
 <a href="https://hamzashabbir.dev">
-  <img src="https://raw.githubusercontent.com/hamza-dev-tech/hamza-dev-tech/main/assets/banner.svg" alt="Malik Hamza Shabbir — AI Engineer and Full-Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/hamza-dev-tech/hamza-dev-tech/main/assets/banner.svg?v=2" alt="Malik Hamza Shabbir — AI Engineer and Full-Stack Developer" width="100%" />
 </a>
 
 <p align="center">
