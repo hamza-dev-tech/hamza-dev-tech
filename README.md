@@ -146,12 +146,16 @@ because a memory system that always says something confidently is a liability.
 ## Some numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-dev-tech&show_icons=true&hide_border=true&bg_color=1c1c22&title_color=00ff99&text_color=c9cbd3&icon_color=00ff99&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-dev-tech&layout=compact&hide_border=true&bg_color=1c1c22&title_color=00ff99&text_color=c9cbd3&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-dev-tech&theme=github_dark" alt="Profile summary" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-dev-tech&hide_border=true&background=1c1c22&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=c9cbd3&dates=7f8492&stroke=2a2a33" alt="Contribution streak" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza-dev-tech&theme=github_dark" alt="Repositories per language" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamza-dev-tech&theme=github_dark" alt="Most committed language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hamza-dev-tech&hide_border=true&background=1c1c22&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=c9cbd3&dates=7f8492&stroke=2a2a33" alt="Contribution streak" />
 </p>
 
 ---
