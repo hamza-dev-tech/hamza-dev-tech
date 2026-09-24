@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Malik Hamza Shabbir — AI engineer and full-stack developer">
+  <title>Malik Hamza Shabbir — AI Engineer &amp; Full-Stack Developer</title>
+
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16161c"/>
+      <stop offset="55%" stop-color="#1c1c22"/>
+      <stop offset="100%" stop-color="#101014"/>
+    </linearGradient>
+
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff99" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ff99" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00ff99" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00ff99" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00ff99" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ff99" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00ff99" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.028" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#ground)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- a light that drifts, so the panel breathes without anything moving loudly -->
+  <ellipse cx="300" cy="90" rx="420" ry="260" fill="url(#glow)">
+    <animate attributeName="cx" values="300;780;300" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- the measurement: a plot that draws itself, then holds -->
+  <path d="M0 262 C 90 250, 150 232, 240 236 S 380 268, 470 256 S 610 220, 700 230 S 848 262, 940 246 S 1090 220, 1200 230"
+        fill="none" stroke="url(#mint)" stroke-width="2.5" stroke-linecap="round"
+        stroke-dasharray="1600" stroke-dashoffset="1600">
+    <animate attributeName="stroke-dashoffset" from="1600" to="0" dur="2.6s" fill="freeze"/>
+  </path>
+
+  <path d="M0 262 C 90 250, 150 232, 240 236 S 380 268, 470 256 S 610 220, 700 230 S 848 262, 940 246 S 1090 220, 1200 230 L1200 300 L0 300 Z"
+        fill="url(#fill)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="1.4s" begin="1.6s" fill="freeze"/>
+  </path>
+
+  <!-- sampled points on the line -->
+  <g fill="#00ff99">
+    <circle cx="240" cy="236" r="0">
+      <animate attributeName="r" values="0;4.5;3.5" dur="0.7s" begin="0.7s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.45;1" dur="3.4s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="470" cy="256" r="0">
+      <animate attributeName="r" values="0;4.5;3.5" dur="0.7s" begin="1.1s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.45;1" dur="3.4s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="230" r="0">
+      <animate attributeName="r" values="0;4.5;3.5" dur="0.7s" begin="1.5s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.45;1" dur="3.4s" begin="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="246" r="0">
+      <animate attributeName="r" values="0;4.5;3.5" dur="0.7s" begin="1.9s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0.45;1" dur="3.4s" begin="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- eyebrow -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.25s" fill="freeze"/>
+    <rect x="72" y="62" width="34" height="3" rx="1.5" fill="#00ff99"/>
+    <text x="120" y="69" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="15" letter-spacing="5.5" fill="#00ff99">AI ENGINEER / FULL-STACK</text>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="136" font-family="Segoe UI,Inter,Helvetica Neue,Arial,sans-serif"
+        font-size="60" font-weight="700" fill="#ffffff" opacity="0">
+    Malik Hamza Shabbir
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.45s" fill="freeze"/>
+  </text>
+
+  <!-- claim -->
+  <text x="72" y="176" font-family="Segoe UI,Inter,Helvetica Neue,Arial,sans-serif"
+        font-size="20" fill="#b9bcc6" opacity="0">
+    I build AI products end to end, then publish the numbers.
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.8s" fill="freeze"/>
+  </text>
+
+  <!-- proof row -->
+  <g opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" fill="#7f8492">
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.15s" fill="freeze"/>
+    <text x="72" y="212">hamzashabbir.dev</text>
+    <text x="232" y="212" fill="#3a3f4b">|</text>
+    <text x="252" y="212">17 shipped products</text>
+    <text x="418" y="212" fill="#3a3f4b">|</text>
+    <text x="438" y="212">Next.js · Python · RAG · Agents</text>
+  </g>
+
+  <!-- status pill -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.9s" begin="1.4s" fill="freeze"/>
+    <rect x="980" y="48" width="152" height="30" rx="15" fill="#00ff99" fill-opacity="0.10" stroke="#00ff99" stroke-opacity="0.35"/>
+    <circle cx="1000" cy="63" r="4" fill="#00ff99">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1012" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+          font-size="12.5" fill="#00ff99">open to work</text>
+  </g>
+</svg>
